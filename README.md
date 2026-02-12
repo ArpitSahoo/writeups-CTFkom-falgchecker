@@ -30,7 +30,7 @@ At first glance, the challenge looked very hard and i thought it would be a pain
 
 ---
 
-## conclution
+## Conclusion
 “This was a very nice and easy beginner challenge, and I really appreciate how beginner‑friendly the creator made it. Great job, everyone!
 ---
 
