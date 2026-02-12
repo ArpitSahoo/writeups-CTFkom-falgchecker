@@ -33,7 +33,7 @@ At first glance, the challenge looked very hard and i thought it would be a pain
 ---
 
 ## Konklution
-This was a veryu nice and easy beginner challenge and i praise the creater that made it so beginner friendly. Good job guys!
+“This was a very nice and easy beginner challenge, and I really appreciate how beginner‑friendly the creator made it. Great job, everyone!
 ---
 
 ## Flag
