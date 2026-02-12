@@ -28,7 +28,8 @@ At first glance, the challenge looked very hard and i thought it would be a pain
 - I noticed some characters didn't quite fit — there were a lot of 0s and 3s that looked out of place
 - After adjusting a few characters, the solution became apparent quickly
 - the solution became apparent quickly.
-![notepad](image.png)
+<img width="1857" height="202" alt="image" src="https://github.com/user-attachments/assets/6c7d7831-a99f-4b47-a91e-2bedb1dc6994" />
+
 ---
 
 ## Konklution
