@@ -10,8 +10,7 @@ This writeup documents the solution process for the **Flag Checker** challenge.
 ---
 
 ## Challenge Description
-
-just a normal flag checker
+- just a normal flag checker
 ---
 
 ## Initial Thoughts
