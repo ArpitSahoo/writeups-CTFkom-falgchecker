@@ -1,5 +1,4 @@
-# writeups-CTFkom-falgchecker
-writing some writeups for ctfKom
+# writeups-CTFkom-flagchecker
 
 ## Overview
 This writeup documents the solution process for the **Flag Checker** challenge.
